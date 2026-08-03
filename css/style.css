@@ -834,9 +834,9 @@ font-size: 35px;
     border-radius: 10px;
 }
 
-.team-item-2 {
+/* .team-item-2 {
     margin: 0px  5%;
-}
+}*/
 
 .team-img {
     width: 85%;
@@ -851,6 +851,7 @@ font-size: 35px;
     height: 100%;
 }
 
+/*
 .team-overlay {
     position: absolute;
 
@@ -898,13 +899,12 @@ font-size: 35px;
     color: #fff;
     /* transition: 1s ; */
     
-}
-.team-item:hover  .team-info-desc {
+/* } */
+/* .team-item:hover  .team-info-desc {
     color: #054C73;
-     /* transition: 1s ; */
-}
+} */
 
-
+/* 
 .team-item:after {
     content: "";
 
@@ -928,7 +928,7 @@ font-size: 35px;
     height: 100%;
     opacity: 0.4;
     border-radius: 10px;
-}
+} */
 
 
 /******************************************** End Team ****************************************************/
