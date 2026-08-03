@@ -820,10 +820,9 @@ font-size: 35px;
     margin-top: 60px;
 }
 
-.team-parent{
-    /* margin-bottom: 30px; */
+/* .team-parent{
     margin-top: 60px;
-}
+} */
 
 .team-item {
     float: left;
@@ -832,7 +831,7 @@ font-size: 35px;
     padding: 18px  14px ;
     text-align: center;
     position: relative;
-        border-radius: 10px;
+    border-radius: 10px;
 }
 
 .team-item-2 {
